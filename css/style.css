@@ -1,0 +1,48 @@
+header > .container{
+	background-color: grey;
+}
+
+header .row{
+	height: 80px;
+	color: white;
+}
+
+.jumbotron > .container{
+	background-color: aquamarine;
+	min-height: 400px;
+}
+
+.my-card{
+	text-align: center;
+	min-height: 100px;
+}
+
+.about .row{
+	min-height: 400px;
+}
+
+.about > .container{
+	max-width: 75%;
+}
+
+.contact .form{
+	min-height: 300px;
+	background: #000;
+}
+
+.contact{
+	min-height: 400px;
+}
+
+.contact > .container{
+	max-width: 75%;
+}
+
+.info .row div{
+	background-color: purple;
+	color: white;
+}
+
+.info .row{
+	min-height: 400px;
+}
