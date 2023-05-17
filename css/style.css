@@ -21,21 +21,13 @@ header .row{
 	min-height: 400px;
 }
 
-.about > .container{
-	max-width: 75%;
-}
-
 .contact .form{
 	min-height: 300px;
 	background: #000;
 }
 
-.contact{
+.contact .row{
 	min-height: 400px;
-}
-
-.contact > .container{
-	max-width: 75%;
 }
 
 .info .row div{
