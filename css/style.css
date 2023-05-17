@@ -23,7 +23,7 @@ header .row{
 
 .contact .form{
 	min-height: 300px;
-	background: #000;
+	background: grey;
 }
 
 .contact .row{
@@ -33,6 +33,7 @@ header .row{
 .info .row div{
 	background-color: purple;
 	color: white;
+	border: 3px dashed black;
 }
 
 .info .row{
