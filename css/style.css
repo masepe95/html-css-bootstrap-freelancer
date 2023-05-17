@@ -3,51 +3,42 @@ a{
 	color: white;
 	text-decoration: none;
 }
-
 /* HEADER */
 header > .container{
 	background-color: grey;
 }
-
 header .row{
 	height: 80px;
 	color: white;
 }
-
 /* JUMBOTRON */
 #jumbotron > .container{
 	background-color: aquamarine;
 	min-height: 400px;
 }
-
 /* PORTFOLIO SECTION */
 .my-card{
 	text-align: center;
 	min-height: 100px;
 }
-
 /* ABOUT SECTION */
 #about .row{
 	min-height: 400px;
 }
-
 /* CONTACT SECTION */
 #contact .form{
 	height: 300px;
 	background: grey;
 }
-
 #contact .row{
 	height: 400px;
 }
-
 /* INFO SECTION */
 .info .row div{
 	background-color: purple;
 	color: white;
 	border: 3px dashed black;
 }
-
 .info .row{
 	min-height: 400px;
 }
