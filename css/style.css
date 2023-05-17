@@ -41,12 +41,6 @@ header .row{
 	height: 400px;
 }
 
-.send-button{
-	position: relative;
-	top: 100%;
-	left: 5%;
-}
-
 /* INFO SECTION */
 .info .row div{
 	background-color: purple;
