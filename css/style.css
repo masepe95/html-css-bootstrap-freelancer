@@ -1,3 +1,10 @@
+/* UTILITY */
+a{
+	color: white;
+	text-decoration: none;
+}
+
+/* HEADER */
 header > .container{
 	background-color: grey;
 }
@@ -7,21 +14,25 @@ header .row{
 	color: white;
 }
 
-.jumbotron > .container{
+/* JUMBOTRON */
+#jumbotron > .container{
 	background-color: aquamarine;
 	min-height: 400px;
 }
 
+/* PORTFOLIO SECTION */
 .my-card{
 	text-align: center;
 	min-height: 100px;
 }
 
-.about .row{
+/* ABOUT SECTION */
+#about .row{
 	min-height: 400px;
 }
 
-.contact .form{
+/* CONTACT SECTION */
+#contact .form{
 	min-height: 300px;
 	background: grey;
 }
@@ -30,6 +41,7 @@ header .row{
 	min-height: 400px;
 }
 
+/* INFO SECTION */
 .info .row div{
 	background-color: purple;
 	color: white;
