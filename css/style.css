@@ -4,7 +4,7 @@ a{
 	text-decoration: none;
 }
 /* HEADER */
-header .container-fluid{
+header .container{
 	background-color:#2c3e4f;
 	height: 80px;
 }
@@ -16,7 +16,8 @@ header .container-fluid{
 	flex-grow: 0;
 }
 /* JUMBOTRON */
-#jumbotron > .container{
+#jumbotron > .container,
+#about > .container{
 	background-color: #19bc9b;
 	min-height: 450px;
 }
@@ -29,13 +30,17 @@ header .container-fluid{
 	width: 15%;
 	height: 4px;
 	border-radius: 10px;
-	background-color: #fff;
+}
+
+.bg-firstcolor{
+	background-color: #2c3e4f;
+}
+
+.color-firstcolor{
+	color: #2c3e4f;
 }
 /* PORTFOLIO SECTION */
-.my-card{
-	text-align: center;
-	min-height: 100px;
-}
+
 /* ABOUT SECTION */
 #about .row{
 	min-height: 400px;
